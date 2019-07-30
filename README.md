@@ -2,8 +2,8 @@
 测试
 ＃inclue<iostream>
 using namespace std;  
-int mian()
+int main()
  {
-  cout<<"hello world"<<endl;
+  cout<<"hello world!"<<endl;
   return 0;
-  }
+ }
