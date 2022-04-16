@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T01:57:06.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0HknvgsLIVjVHM50muw1" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T09:14:57.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0uImQYHVwhQfkY_p9cLo" version="17.4.3" type="github">
   <diagram id="GMWnefxT7WEzi1QLVJq1" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="1385" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -570,6 +570,9 @@
         </mxCell>
         <mxCell id="b-fAWEHOQFWTegUkw14H-275" value="test" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="976.6" y="1816.9" width="29" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="ILqkdSMEX9uuESRQAsFd-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="71.86000000000001" y="2332" width="57.14" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
